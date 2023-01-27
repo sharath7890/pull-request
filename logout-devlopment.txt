@@ -1,2 +1,2 @@
 
-logout fully developed
+logout partial developed
